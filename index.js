@@ -4,7 +4,7 @@ const { randomBytes } = require('crypto');
 const client = new Discord.Client();
 const config = {
     prefix : '*',
-    token : 'NDQ0OTQ2NzkzNjEyOTY3OTQ2.Xv0cNA.efaUexNjHHC-CTQGs_qmdDGSDhc'
+    token : 'NDQ0OTQ2NzkzNjEyOTY3OTQ2.WvdC_g.KlethIJ7tTO8NEqIdY_ezQd6ixY'
 }
 client.once('ready', () => {
     console.log('Ready!')

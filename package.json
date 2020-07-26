@@ -1,0 +1,14 @@
+{
+  "name": "tmt-bot-tomy",
+  "version": "1.0.0",
+  "description": "automatic text channel creator bot for recruitment purposes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tomytomx",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.1.1"
+  }
+}
